@@ -1,6 +1,6 @@
 # mental-health-powerbi-dashboard
 
-This project analyzes mental health care indicators in the United States during 2020 using an interactive Power BI dashboard.
+This project analyzes mental health care indicators in the United States during 4 weeks in 2020 using an interactive Power BI dashboard.
 The main goal is to understand:
 - How many people received mental health care
 - How many needed care but did not receive it
